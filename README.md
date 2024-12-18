@@ -1,8 +1,19 @@
-About Me ...
+# Hi there, I am Rumiya Ismatova
 
- I am a proud mother of two girls. I am as well a dedicated professional
-transitioning from a legal background into data science and technology.
+## I am a dedicated mother transitioning from a legal background to IT
 
-I love learning languages and enjoy my time spend with my daughters.
+## About me
+
+I am a passionate learner, a problem-solver, currently enrolled in the
+**MIT Emerging Talent Program**, building a strong foundations in Python
+programming, computational thinking and data science.
+
+I love learning languages. I speak four languages and Python will be the next, hopefully!
+I speak
+
+- English
+- Russian
+- Pamiri
+- Tajik.
 
 Thank You!
